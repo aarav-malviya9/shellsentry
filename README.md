@@ -20,6 +20,8 @@ It drops users directly into a simulated security incident and requires them to 
 
 ## Setup Instructions
 ```bash
+git clone https://github.com/aarav-malviya9/shellsentry.git
+cd shellsentry
 npm install
 npm run dev
 ```
